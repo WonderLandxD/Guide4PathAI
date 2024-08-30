@@ -23,6 +23,9 @@ A quick start for pathology AI research by *Jiawen Li* (jw-li24@mails.tsinghua.e
 - **Hosseini, Mahdi S., et al. "Computational pathology: a survey review and the way forward." Journal of Pathology Informatics (2024): 100357.**
   - 简述：2024年病理AI/计算病理综述（偏应用）
   - 链接: [Journal of Pathology Informatics] https://www.sciencedirect.com/science/article/pii/S2153353923001712
+- **Lipkova, Jana, et al. "Artificial intelligence for multimodal data integration in oncology." Cancer cell 40.10 (2022): 1095-1110.**
+  - 简述：2022年肿瘤学人工智能的多模态学习综述
+  - 链接：[Cancer cell] https://www.cell.com/cancer-cell/fulltext/S1535-6108(22)00441-X
 
 ### Popular
 - **Lu, Ming Y., et al. "Data-efficient and weakly supervised computational pathology on whole-slide images." Nature biomedical engineering 5.6 (2021): 555-570.**
@@ -46,4 +49,9 @@ A quick start for pathology AI research by *Jiawen Li* (jw-li24@mails.tsinghua.e
 - **Graham, Simon, et al. "Hover-net: Simultaneous segmentation and classification of nuclei in multi-tissue histology images." Medical image analysis 58 (2019): 101563.**
   - 简述： 用于细胞核语义分割的分割模型（Hover-net）
   - 链接：[MIA] https://www.sciencedirect.com/science/article/pii/S1361841519301045
+- **Chen, Richard J., et al. "Towards a general-purpose foundation model for computational pathology." Nature Medicine 30.3 (2024): 850-862.**
+  - 简述：基于自监督学习的病理通用foundation model（大模型）UNI
+  - 链接：[Arxiv] https://arxiv.org/abs/2308.15474; [Nature Medicine] https://www.nature.com/articles/s41591-024-02857-3
+- **Huang, Zhi, et al. "A visual–language foundation model for pathology image analysis using medical twitter." Nature medicine 29.9 (2023): 2307-2316.**
+    - 
 
