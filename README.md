@@ -11,9 +11,6 @@ A quick start for pathology AI research by *Jiawen Li* (jw-li24@mails.tsinghua.e
     - [热门](#热门)
     - [有用的project](#其他有用的project)
 3. [其他资源](#其他资源)
-    - [数据集](#数据集)
-    - [工具和库](#工具和库)
-    - [社区和论坛](#社区和论坛)
   
 ## Paper
 ### Survey
@@ -140,3 +137,6 @@ A quick start for pathology AI research by *Jiawen Li* (jw-li24@mails.tsinghua.e
 - https://chat.deepseek.com/coder
 - https://chatglm.cn/
 - https://developer.aliyun.com/article/240538
+
+### **公开数据集**
+待更新...
