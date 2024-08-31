@@ -133,6 +133,7 @@ A quick start for pathology AI research by *Jiawen Li* (jw-li24@mails.tsinghua.e
 
 ### **其他有用的网站**
 - https://huggingface.co/
+- https://tomatocloud.me/account?action=login
 - https://aideadlin.es/?sub=CV
 - https://chat.deepseek.com/coder
 - https://chatglm.cn/
