@@ -114,6 +114,7 @@ A quick start for pathology AI research by *Jiawen Li* (jw-li24@mails.tsinghua.e
   - MIL模型库，包括各种MIL的复现以及WSI的处理
 - **https://github.com/WonderLandxD/sdpc-for-python** 
   - .sdpc后缀的WSI文件python处理库，生强扫描仪扫出来的WSI都是sdpc格式，需要用该库进行处理
+  - 如果上面版本安装有问题，可考虑安装旧版本，链接：https://github.com/WonderLandxD/sdpc-for-python/tree/4c03a32473eb88f24283446c0967e5053f083896
 - **More projects are waiting for your exploration**
 
 ##  其他资源
